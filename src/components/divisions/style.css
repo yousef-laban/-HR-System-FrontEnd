@@ -1,0 +1,32 @@
+
+.contaner{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+
+}
+
+.divisions {
+    margin-top: 15px;
+    width: 20%;
+    margin: 10px;
+  }
+
+.division{
+height: 40px;
+padding: 5px;
+
+}
+
+.divisionsTop{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+margin: 8px;
+margin-top: 20px;
+
+}
+
+
+
+
